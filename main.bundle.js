@@ -739,7 +739,7 @@ module.exports = ".material-icons{\n    margin-top:30px;\n}\nh3{\n    font-size:
 /***/ 629:
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = "h3{\n    font-size: 2em;\n}\nh4{\n    font-size: 1.1em;\n}"
 
 /***/ }),
 
@@ -753,7 +753,7 @@ module.exports = "p{\n    font-size: 1.4em;\n}"
 /***/ 631:
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = "h1{\n    font-size: 3em;\n}"
 
 /***/ }),
 
@@ -809,7 +809,7 @@ module.exports = "<div class=\"col s12 m12 l12\">\n<p>{{title}}</p>\n<p class=\"
 /***/ 639:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12 card-panel blue lighten-1  z-depth-5\">\n     <div class=\"card-panel \"><h1>{{title}}</h1></div>\n    <content *ngFor=\"let d of data\" [title]=\"d.title\" [date]=\"d.date\" [text]=\"d.text\"></content>\n</div>"
+module.exports = "<div class=\"col s12 m12 l12 card-panel blue lighten-5  z-depth-5\">\n     <div class=\"card-panel \"><h1>{{title}}</h1></div>\n    <content *ngFor=\"let d of data\" [title]=\"d.title\" [date]=\"d.date\" [text]=\"d.text\"></content>\n</div>"
 
 /***/ }),
 
