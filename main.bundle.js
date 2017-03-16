@@ -1,6 +1,6 @@
 webpackJsonp([1,4],{
 
-/***/ 342:
+/***/ 349:
 /***/ (function(module, exports) {
 
 function webpackEmptyContext(req) {
@@ -9,20 +9,20 @@ function webpackEmptyContext(req) {
 webpackEmptyContext.keys = function() { return []; };
 webpackEmptyContext.resolve = webpackEmptyContext;
 module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 342;
+webpackEmptyContext.id = 349;
 
 
 /***/ }),
 
-/***/ 343:
+/***/ 350:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(431);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(439);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__environments_environment__ = __webpack_require__(465);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_app_module__ = __webpack_require__(452);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__environments_environment__ = __webpack_require__(473);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_app_module__ = __webpack_require__(460);
 
 
 
@@ -35,7 +35,7 @@ __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dyna
 
 /***/ }),
 
-/***/ 451:
+/***/ 459:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -58,8 +58,8 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'app-root',
-            template: __webpack_require__(627),
-            styles: [__webpack_require__(619)]
+            template: __webpack_require__(635),
+            styles: [__webpack_require__(627)]
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
@@ -69,16 +69,16 @@ var AppComponent = (function () {
 
 /***/ }),
 
-/***/ 452:
+/***/ 460:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(192);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(421);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(427);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_component__ = __webpack_require__(451);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__page_index_index_module__ = __webpack_require__(463);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(429);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(435);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_component__ = __webpack_require__(459);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__page_index_index_module__ = __webpack_require__(471);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -120,7 +120,7 @@ var AppModule = (function () {
 
 /***/ }),
 
-/***/ 453:
+/***/ 461:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -156,8 +156,8 @@ var AltContent = (function () {
     AltContent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'altcontent',
-            template: __webpack_require__(628),
-            styles: [__webpack_require__(620)]
+            template: __webpack_require__(636),
+            styles: [__webpack_require__(628)]
         }), 
         __metadata('design:paramtypes', [])
     ], AltContent);
@@ -167,7 +167,7 @@ var AltContent = (function () {
 
 /***/ }),
 
-/***/ 454:
+/***/ 462:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -203,8 +203,8 @@ var Content = (function () {
     Content = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'content',
-            template: __webpack_require__(629),
-            styles: [__webpack_require__(621)]
+            template: __webpack_require__(637),
+            styles: [__webpack_require__(629)]
         }), 
         __metadata('design:paramtypes', [])
     ], Content);
@@ -214,7 +214,7 @@ var Content = (function () {
 
 /***/ }),
 
-/***/ 455:
+/***/ 463:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -246,8 +246,8 @@ var Range = (function () {
     Range = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'range',
-            template: __webpack_require__(630),
-            styles: [__webpack_require__(622)]
+            template: __webpack_require__(638),
+            styles: [__webpack_require__(630)]
         }), 
         __metadata('design:paramtypes', [])
     ], Range);
@@ -257,7 +257,7 @@ var Range = (function () {
 
 /***/ }),
 
-/***/ 456:
+/***/ 464:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -289,8 +289,8 @@ var Block = (function () {
     Block = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'block',
-            template: __webpack_require__(631),
-            styles: [__webpack_require__(623)]
+            template: __webpack_require__(639),
+            styles: [__webpack_require__(631)]
         }), 
         __metadata('design:paramtypes', [])
     ], Block);
@@ -300,14 +300,14 @@ var Block = (function () {
 
 /***/ }),
 
-/***/ 457:
+/***/ 465:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__atoms_content_content_component__ = __webpack_require__(454);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__block_component__ = __webpack_require__(456);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__atoms_content_content_component__ = __webpack_require__(462);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__block_component__ = __webpack_require__(464);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BlockModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -341,7 +341,7 @@ var BlockModule = (function () {
 
 /***/ }),
 
-/***/ 458:
+/***/ 466:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -369,8 +369,8 @@ var Sideprofile = (function () {
     Sideprofile = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'sideprofile',
-            template: __webpack_require__(632),
-            styles: [__webpack_require__(624)]
+            template: __webpack_require__(640),
+            styles: [__webpack_require__(632)]
         }), 
         __metadata('design:paramtypes', [])
     ], Sideprofile);
@@ -380,15 +380,15 @@ var Sideprofile = (function () {
 
 /***/ }),
 
-/***/ 459:
+/***/ 467:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sideprofile_component__ = __webpack_require__(458);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__atoms_altcontent_altcontent_component__ = __webpack_require__(453);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__skills_skills_module__ = __webpack_require__(461);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sideprofile_component__ = __webpack_require__(466);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__atoms_altcontent_altcontent_component__ = __webpack_require__(461);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__skills_skills_module__ = __webpack_require__(469);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SideprofileModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -424,7 +424,7 @@ var SideprofileModule = (function () {
 
 /***/ }),
 
-/***/ 460:
+/***/ 468:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -456,8 +456,8 @@ var Skills = (function () {
     Skills = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'skills',
-            template: __webpack_require__(633),
-            styles: [__webpack_require__(625)]
+            template: __webpack_require__(641),
+            styles: [__webpack_require__(633)]
         }), 
         __metadata('design:paramtypes', [])
     ], Skills);
@@ -467,14 +467,14 @@ var Skills = (function () {
 
 /***/ }),
 
-/***/ 461:
+/***/ 469:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__skills_component__ = __webpack_require__(460);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__atoms_range_range_component__ = __webpack_require__(455);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__skills_component__ = __webpack_require__(468);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__atoms_range_range_component__ = __webpack_require__(463);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SkillsModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -508,12 +508,12 @@ var SkillsModule = (function () {
 
 /***/ }),
 
-/***/ 462:
+/***/ 470:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_info_info_component__ = __webpack_require__(464);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_info_info_component__ = __webpack_require__(472);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return IndexPage; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -536,8 +536,8 @@ var IndexPage = (function () {
     IndexPage = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */])({
             selector: 'app-index',
-            template: __webpack_require__(634),
-            styles: [__webpack_require__(626)],
+            template: __webpack_require__(642),
+            styles: [__webpack_require__(634)],
             providers: [__WEBPACK_IMPORTED_MODULE_1__services_info_info_component__["a" /* InfoService */]]
         }), 
         __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__services_info_info_component__["a" /* InfoService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__services_info_info_component__["a" /* InfoService */]) === 'function' && _a) || Object])
@@ -549,15 +549,15 @@ var IndexPage = (function () {
 
 /***/ }),
 
-/***/ 463:
+/***/ 471:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__index_component__ = __webpack_require__(462);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_block_block_module__ = __webpack_require__(457);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_sideprofile_sideprofile_module__ = __webpack_require__(459);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__index_component__ = __webpack_require__(470);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_block_block_module__ = __webpack_require__(465);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_sideprofile_sideprofile_module__ = __webpack_require__(467);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return IndexModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -594,7 +594,7 @@ var IndexModule = (function () {
 
 /***/ }),
 
-/***/ 464:
+/***/ 472:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -615,6 +615,7 @@ var InfoService = (function () {
         this.profile = {
             "firstName": "Mahdi",
             "lastName": "Kahia",
+            "nickName": "Unity Expert",
             "data": [
                 {
                     "icon": "contacts",
@@ -705,7 +706,7 @@ var InfoService = (function () {
 
 /***/ }),
 
-/***/ 465:
+/***/ 473:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -721,125 +722,125 @@ var environment = {
 
 /***/ }),
 
-/***/ 619:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 620:
-/***/ (function(module, exports) {
-
-module.exports = ".material-icons{\n    margin-top:30px;\n}"
-
-/***/ }),
-
-/***/ 621:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 622:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 623:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 624:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 625:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ 626:
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
 /***/ 627:
 /***/ (function(module, exports) {
 
-module.exports = "<app-index></app-index>"
+module.exports = ""
 
 /***/ }),
 
 /***/ 628:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12 card-panel\">\n    <div class=\"row\">\n        <div class=\"col s4 m4 l4 \">\n            <i class=\"medium material-icons\">{{icon}}</i>\n        </div>\n        <div class=\"col s8 m8 l8\">\n            <h3>{{title}}</h3>\n            <p>{{text}}</p>\n        </div>\n    </div>\n</div>"
+module.exports = ".material-icons{\n    margin-top:30px;\n}\nh3{\n    font-size: 1.3em;\n    color: white;\n}\np{\n    color: white;\n}\n\n.material-icons{\n    color:white;\n}"
 
 /***/ }),
 
 /***/ 629:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12 card-panel\">\n<h3>{{title}}</h3>\n<h4>{{date}}</h4>\n<p>{{text}}</p>\n</div>"
+module.exports = ""
 
 /***/ }),
 
 /***/ 630:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12\">\n<p>{{title}}</p>\n<p class=\"range-field\">\n  <input type=\"range\" min=\"0\" max=\"100\" value=\"{{value}}\" disabled/>\n</p>\n</div>"
+module.exports = "p{\n    font-size: 1.4em;\n}"
 
 /***/ }),
 
 /***/ 631:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12 card-panel z-depth-5\">\n     <div class=\"card-panel\"><h1>{{title}}</h1></div>\n    <content *ngFor=\"let d of data\" [title]=\"d.title\" [date]=\"d.date\" [text]=\"d.text\"></content>\n</div>"
+module.exports = ""
 
 /***/ }),
 
 /***/ 632:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12 card-panel z-depth-5\">\n  <div>\n    <img class=\"responsive-img\" src=\"https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/12096514_10206772290178887_7324805604309466744_n.jpg?oh=7db55aafb8532ac6fc89916cd9c2cccc&oe=59700208\">\n  </div>\n\n  <div>\n    <h1>{{data.firstName}} {{data.lastName}}</h1>\n  </div>\n  <altcontent *ngFor=\"let d of data.data\" [title]=\"d.title\" [icon]=\"d.icon\" [text]=\"d.text\"></altcontent>\n  <skills title=\"Skills\" [data]=\"data.skills\"></skills>\n</div>"
+module.exports = "h3{\n    font-size: 1.5em;\n    text-align: center;\n}\nh1{\n     font-size: 3em;\n    text-align: center;\n}"
 
 /***/ }),
 
 /***/ 633:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"col s12 m12 l12 card-panel z-depth-5\">\n     <div class=\"card-panel\"><h1>{{title}}</h1></div>\n    <range *ngFor=\"let d of data\" [title]=\"d.title\" [value]=\"d.value\"></range>\n</div>"
+module.exports = "h1{\n    color: white;\n    font-size: 2.1em;\n}"
 
 /***/ }),
 
 /***/ 634:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"row container\">\n    <div class=\"col s12 m3 l3\">\n        <sideprofile [data]=\"info.profile\"></sideprofile>\n    </div>\n    <div class=\"col s12 m9 l9\">\n        <block title=\"Work Experience\" [data]=\"info.work\"></block>\n        <block title=\"Education\" [data]=\"info.Education\"></block>\n        <block title=\"Interests\" [data]=\"info.interesets\"></block>\n    </div>\n</div>"
+module.exports = ""
 
 /***/ }),
 
-/***/ 647:
+/***/ 635:
+/***/ (function(module, exports) {
+
+module.exports = "<app-index></app-index>"
+
+/***/ }),
+
+/***/ 636:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col s12 m12 l12 blue lighten-1 card-panel\">\n    <div class=\"row\">\n        <div class=\"col s4 m4 l4 \">\n            <i class=\"medium material-icons\">{{icon}}</i>\n        </div>\n        <div class=\"col s8 m8 l8\">\n            <h3>{{title}}</h3>\n            <p>{{text}}</p>\n        </div>\n    </div>\n</div>"
+
+/***/ }),
+
+/***/ 637:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col s12 m12 l12 card-panel\">\n<h3>{{title}}</h3>\n<h4>{{date}}</h4>\n<p>{{text}}</p>\n</div>"
+
+/***/ }),
+
+/***/ 638:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col s12 m12 l12\">\n<p>{{title}}</p>\n<p class=\"range-field \">\n  <input type=\"range\" min=\"0\" max=\"100\" value=\"{{value}}\" disabled/>\n</p>\n</div>"
+
+/***/ }),
+
+/***/ 639:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col s12 m12 l12 card-panel blue lighten-1  z-depth-5\">\n     <div class=\"card-panel \"><h1>{{title}}</h1></div>\n    <content *ngFor=\"let d of data\" [title]=\"d.title\" [date]=\"d.date\" [text]=\"d.text\"></content>\n</div>"
+
+/***/ }),
+
+/***/ 640:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col s12 m12 l12 card-panel z-depth-5\">\n  <div>\n    <img class=\"responsive-img\" src=\"https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/12096514_10206772290178887_7324805604309466744_n.jpg?oh=7db55aafb8532ac6fc89916cd9c2cccc&oe=59700208\">\n  </div>\n\n  <div>\n    <h1>{{data.firstName}} {{data.lastName}}</h1>\n    <h3>{{data.nickName}}</h3>\n  </div>\n  <altcontent *ngFor=\"let d of data.data\" [title]=\"d.title\" [icon]=\"d.icon\" [text]=\"d.text\"></altcontent>\n  <skills title=\"Professional Skills\" [data]=\"data.skills\"></skills>\n</div>"
+
+/***/ }),
+
+/***/ 641:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"col s12 m12 l12 card-panel z-depth-5\">\n     <div class=\"card-panel blue lighten-1\"><h1>{{title}}</h1></div>\n    <range *ngFor=\"let d of data\" [title]=\"d.title\" [value]=\"d.value\"></range>\n</div>"
+
+/***/ }),
+
+/***/ 642:
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"row container\">\n    <div class=\"col s12 m4 l4\">\n        <sideprofile [data]=\"info.profile\"></sideprofile>\n    </div>\n    <div class=\"col s12 m8 l8\">\n        <block title=\"Work Experience\" [data]=\"info.work\"></block>\n        <block title=\"Education\" [data]=\"info.Education\"></block>\n        <block title=\"Interests\" [data]=\"info.interesets\"></block>\n    </div>\n</div>"
+
+/***/ }),
+
+/***/ 669:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(343);
+module.exports = __webpack_require__(350);
 
 
 /***/ })
 
-},[647]);
+},[669]);
 //# sourceMappingURL=main.bundle.map
